@@ -1,0 +1,17 @@
+name: envpytorch
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - pillow
+  - pip
+  - plotly
+  - scikit-learn
+  - seaborn
+  - python
+  - jupyter
+  - pytorch
+  - torchvision
